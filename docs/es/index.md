@@ -3,22 +3,15 @@ layout: home
 
 hero:
     name: Dev Struggles
-    text: La realidad del desarrollo de software.
+    text: Un blog que va más allá del código.
+    tagline: Mi realidad sobre el desarrollo de software.
 
 features:
-    - icon: 🔧
-      title: Retos Reales
-      details: Desafíos genuinos que enfrentamos los desarrolladores, con aprendizajes y lecciones personales para ayudarte a superar cada obstáculo.
-
-    - icon: 🤝
-      title: Honestidad y Transparencia
-      details: Sin adornos, solo la realidad. Historias auténticas que muestran tanto éxitos como fracasos, para que aprendas de cada paso.
-
-    - icon: 💡
-      title: Crecimiento Práctico
-      details: Consejos útiles, trucos y soluciones para desafíos de programación, junto con ideas de desarrollo personal y aprendizaje continuo.
+    - icon: 🧠
+      title: Experiencias y Consejos Personales
+      details: Un vistazo a mi trayectoria como desarrollador, compartiendo historias reales, aprendizajes personales y consejos para afrontar los desafíos del día a día en el mundo de la programación.
 
     - icon: 📚
-      title: Aprendizaje Integral
-      details: Desde lo técnico hasta las habilidades blandas, recibirás una mezcla de conocimientos y reflexiones para apoyar tu desarrollo como programador.
+      title: Aspectos Técnicos y Profesionales
+      details: Contenido técnico enfocado en soluciones, herramientas y conceptos clave del desarrollo de software, junto con reflexiones sobre el crecimiento profesional en la industria.
 ---
