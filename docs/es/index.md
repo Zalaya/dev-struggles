@@ -3,8 +3,8 @@ layout: home
 
 hero:
     name: Dev Struggles
-    text: Un blog que va más allá del código.
-    tagline: Mi realidad sobre el desarrollo de software.
+    text: Un Blog que va Más Allá del Código
+    tagline: Mi realidad sobre el Desarrollo de Software
 
 features:
     - icon: 🧠
