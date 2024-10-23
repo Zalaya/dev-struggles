@@ -5,15 +5,8 @@ export default defineConfig({
     title: "Dev Struggles",
     description: "A blog sharing my real-life challenges as a developer.",
     locales: {
-        root: {
-            label: "English",
-            lang: "en"
-        },
-        es: {
-            label: "Español",
-            lang: "es",
-            link: "/es/"
-        }
+        root: { label: "English", lang: "en" },
+        es: { label: "Español", lang: "es", link: "/es/" }
     },
     themeConfig: {
         nav: [
