@@ -1,25 +1,20 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "Dev Struggles"
-  text: "A blog sharing my real-life challenges as a developer."
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+    name: "Dev Struggles"
+    text: "A blog sharing my real-life challenges as a developer."
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
+    - icon: 🔧
+      title: Real-life Struggles
+      details: Real challenges faced as a developer, with insights and solutions to guide you.
 
+    - icon: 🤝
+      title: Honest & Transparent
+      details: 100% authentic stories and lessons from both wins and mistakes, no sugarcoating.
+
+    - icon: 💡
+      title: Practical Solutions
+      details: Actionable tips and tricks to tackle coding challenges, all from real experience.
+---
