@@ -3,8 +3,7 @@ layout: home
 
 hero:
     name: Dev Struggles
-    text: A blog sharing my real-life challenges as a developer.
-    tagline: The unfiltered journey of coding, learning, and growing.
+    text: The reality of software development.
 
 features:
     - icon: 🔧
