@@ -16,18 +16,34 @@ export default defineConfig({
         }
     },
     themeConfig: {
-        socialLinks: [
+        nav: [
             {
-                icon: "github",
-                link: "https://github.com/Zalaya/dev-struggles"
-            },
+                text: '1.0.0',
+                items: [
+                    {
+                        text: "Source Code",
+                        link: "https://github.com/Zalaya/dev-struggles"
+                    },
+                    {
+                        text: 'License',
+                        link: 'https://github.com/Zalaya/dev-struggles/blob/main/LICENSE'
+                    }
+                ]
+            }
+        ],
+        socialLinks: [
             {
                 icon: "linkedin",
                 link: "https://www.linkedin.com/in/enol-cortina/"
+            },
+            {
+                icon: "github",
+                link: "https://github.com/Zalaya"
             }
         ],
         footer: {
-            copyright: "© 2024 Dev Struggles"
+            message: "Released under the MIT License",
+            copyright: "© 2024 - Present • Zalaya"
         }
     }
 })
