@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress"
 export default defineConfig({
     base: "/dev-struggles/",
     title: "Dev Struggles",
-    description: "A Blog that goes Beyond the Code",
+    description: "Just Another Programming Blog",
     locales: {
         root: {
             label: "English",
