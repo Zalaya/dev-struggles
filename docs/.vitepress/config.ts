@@ -18,15 +18,15 @@ export default defineConfig({
     themeConfig: {
         nav: [
             {
-                text: '1.0.0',
+                text: "1.0.0",
                 items: [
                     {
                         text: "Source Code",
                         link: "https://github.com/Zalaya/dev-struggles"
                     },
                     {
-                        text: 'License',
-                        link: 'https://github.com/Zalaya/dev-struggles/blob/main/LICENSE'
+                        text: "License",
+                        link: "https://github.com/Zalaya/dev-struggles/blob/main/LICENSE"
                     }
                 ]
             }
