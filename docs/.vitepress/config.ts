@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress"
 export default defineConfig({
     base: "/dev-struggles/",
     title: "Dev Struggles",
-    description: "A blog that goes beyond the code",
+    description: "A Blog that goes Beyond the Code",
     locales: {
         root: {
             label: "English",
@@ -16,12 +16,6 @@ export default defineConfig({
         }
     },
     themeConfig: {
-        nav: [
-            {
-                text: "Home",
-                link: "/"
-            }
-        ],
         socialLinks: [
             {
                 icon: "github",
@@ -33,7 +27,7 @@ export default defineConfig({
             }
         ],
         footer: {
-            copyright: "© 2024 Dev Struggles - All rights reserved"
+            copyright: "© 2024 Dev Struggles"
         }
     }
 })
